@@ -1,0 +1,394 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>La Tete De Milles Noirs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Font awesome icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="stylo.css">
+  </head>
+  <body>
+
+    <!-- header -->
+    <header>
+      <nav class = "navbar">
+        <div class = "container">
+          <a href = "blog.html" class = "navbar-brand"></a>
+          <div class = "navbar-nav">
+            <a href = "#blog">Acceuil</a>
+            <a href = "soutenirleblog.html">Soutenir le blog </a>
+            <a href = "#about">Contact</a>
+          </div>
+        </div>
+      </nav>
+      <div class = "banner">
+        <div class = "container">
+          <h1 class = "banner-title">
+            <span>Histoire.</span> Culture ET Afrique
+          </h1>
+          
+          <form>
+            <input type = "text" class = "search-input" placeholder="Recherche">
+            <button type = "submit" class = "search-btn">
+              <i class = "fas fa-search"></i>
+            </button>
+          </form>
+        </div>
+      </div>
+    </header>
+    <!-- end of header -->
+
+   
+
+
+    <!-- blog -->
+    <section class = "blog" id = "blog">
+      <div class = "container">
+        <div class = "title">
+          <h2>Memoires et Histoires Africaines</h2>
+          <p>Ici on parle de culture, on parle de l'Afrique dans toute sa splandeur.</p>
+        </div>
+        <div class = "blog-content">
+
+          <!-- item -->
+          <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "reine1.jpg" alt = "">
+            </div>
+        
+            <div class = "blog-text">
+              <span>20 January, 2020</span>
+              <h1>Taytu Betul</h1>
+              <h2>Symbole du panafricanisme, Addis-Abeba, capitale de l’Éthiopie et siège de l’UA, a été fondée par une femme : Taytu Betul. La même qui avait joué un rôle fondamental dans la victoire éthiopienne face à l’invasion italienne, en 1896.</h2>
+              <a href = "reine1.html">Lire son histoire</a>
+        </div>
+    </div>
+          <!-- end of item -->
+
+
+          <!-- item -->
+          <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "reine2.jpg" alt = "">
+              
+            </div>
+            <div class = "blog-text">
+              <span>20 January, 2020</span>
+              <h1>Kahina, Reine berbère</h1>
+              <h2>De sa forteresse dans les Aurès, la souveraine combattit farouchement les envahisseurs arabes. Plus de 1 300 ans après sa mort, elle demeure le symbole de la résistance amazigh.</h2>
+              
+              <a href = "test.html">Lire son histoire</a>
+          </div>
+        </div>
+          <!-- end of item -->
+
+          <!-- item -->
+          <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "reine3.jpg" alt = "">
+             
+            </div>
+            <div class = "blog-text">
+              <span>20 January, 2020</span>
+              <h1>Anne Zingha</h1>
+              <h2>Au XVIIe siècle, Anne Zingha règne sur les royaumes de l’actuel Angola et parvient à éviter la colonisation de son pays. Une icône angolaise et panafricaine de la résistance à l’impérialisme européen.</h2>
+              
+              <a href = "reine3.html">Lire son histoire</a>
+            </div>
+          </div>
+          <!-- end of item -->
+          <!-- item -->
+          <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "reine4.png" alt = "">
+              
+            </div>
+            <div class = "blog-text">
+              <span>20 January, 202:0</span>
+               <h1>Kimpa Vita</h1>
+              <h2>Brûlée vive sur un bûcher, la prophétesse Kimpa Vita a libéré la fierté de l’identité noire et porté une foi émancipatrice sur un continent en proie à l’oppression.</h2>
+            
+              <a href = "reine4.html">Lire son histoire</a>
+            </div>
+        </div>
+          <!-- end of item -->
+
+
+           <!-- item -->
+           <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "aline sitoe.jpg" alt = "">
+            </div>
+            <div class = "blog-text">
+              <span>20 January, 2020</span>
+              <h1>Aline Sitoe Diatta OU La dame de Kabrousse</h1>
+              <h2>Aline Sitoé Diatta (née en 1920 à Kabrousse, dans le Sud du Sénégal et morte en 1944 à Tombouctou, au Mali) est une héroïne de la résistance casamançaise. On la surnomme parfois la « Jeanne d'Arc d'Afrique »..</h2>
+              
+              <a href = "aline sitoe.html">Lire son histoire</a>
+            </div>
+        </div>
+          <!-- end of item -->
+
+          <!-- item -->
+          <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "nat turner.jpg" alt = "">
+            </div>
+            <div class = "blog-text">
+              <span>20 January, 2020</span>
+              <h1>Nat Turner, le révolté. Assassiné le 11 Nov 1831 </h1>
+              <h2>Avez-vous entendu parler de Nat Turner? Ce grand combattant qui mena l'une des plus grandes révoltes aux Etats Unis d'Amérique contre les esclavagistes blancs.»..</h2>
+              
+              <a href = "nat turner.html">Lire son histoire</a>
+            </div>
+        </div>
+          <!-- end of item -->
+
+          <!-- item -->
+          <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "cicely tyson.jpg" alt = "">
+            </div>
+            <div class = "blog-text">
+              <span>Entre 1968-1987
+              
+     </span>
+              <h1>Cicely Tyson. </h1>
+              <h2>Née à Harlem en ce jour du 19 décembre 1924, la grande actrice activiste noire Américaine Cicely Tyson, est la première femme noire à porter des tresses à la télévision Américaine.</h2>
+              
+              <a href = "cicely tyson.html">Lire son histoire</a>
+          </div>
+        </div>
+          <!-- end of item -->
+
+          <!-- item -->
+          <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "dahomey.jpg" alt = "">
+            </div>
+            <div class = "blog-text">
+              <span>20 January, 2020</span>
+              <h1>Les Amazones du Dahomey. </h1>
+              <h2>Troupes d’élite féminines, les femmes soldats du Dahomey, appelées aussi Agon’djié, qui signifie « Ote-toi de là ; fais-moi place » en langue fon, ont contribué à la puissance militaire du Royaume du Dahomey aux 18e et 19e siècles.</h2>
+              
+              <a href = "dahomey.html">Lire leur histoire</a>
+            </div>
+        </div>
+          <!-- end of item -->
+
+         
+           <div class = "blog-item">
+            <div class = "blog-img">
+              <img src = "maqoma.jpg" alt = "">
+            </div>
+            <div class = "blog-text">
+              <span>20 January, 2020</span>
+              <h1>Le Guerrier Sud-Africain Maqoma </h1>
+              <h2>MEMOIRES</h2>
+              
+              <a href = "maqoma.html">Lire la Mémoire</a>
+            </div>
+          </div>
+          <!-- end of item -->
+<!-- item -->
+<div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "zumbi.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Zumbi Dos Palmares  </h1>
+      <h2>MEMOIRES</h2>
+      
+      <a href = "zumbi.html">Lire la Mémoire</a>
+    </div>
+  </div>
+  <!-- end of item -->
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "kakulu.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Kalulu </h1>
+      <h2>MEMOIRES</h2>
+      
+      <a href = "Kalulu.html">Lire la Mémoire</a>
+    </div>
+  </div>
+  <!-- end of item -->
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "fouta toro.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Fouta Toro </h1>
+      <h2>Les deux premiers hommes qui ont aboli l’esclavage sont des africains sénégalais du Fouta toro.</h2>
+      
+      <a href = "fouta toro.html">Lire son Histoire</a>
+    </div>
+</div>
+  <!-- end of item -->
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "carlota.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Carlota Lucumi déclenche une violente insurrection contre les esclavagistes blancs </h1>
+      <h2>Il y a exactement 178 ans aujourd'hui que la Grande Carlota Lucumi a déclenché une violente insurrection contre les terroristes esclavagistes en ce  jour du  5 novembre 1843. </h2>
+      
+      <a href = "carlota.html">Lire son Histoire</a>
+    </div>
+  </div>
+  <!-- end of item -->
+
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "sidya diop.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Sidya DIOP </h1>
+      <h2>Sidya DIOP, fils de la Reine Ndatté Yalla Mbodj, un des plus grands héros de la résistance  </h2>
+      
+      <a href = "sydia diop.html">Lire son Histoire</a>
+    </div>
+</div>
+  <!-- end of item -->
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "amina de zaria.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Amina de Zaria </h1>
+      <h2>Il y a 411 ans aujourd'hui que la légendaire Amina de Zaria est morte, en ce jour du 29 octobre 1610.
+Amina de Zaria appelée aussi « la reine guerrière » était une des plus grandes guerrières que la terre ait jamais connu au 16e siècle. 
+</h2>
+      
+      <a href = "amina de zaria.html">Lire son Histoire</a>
+    </div>
+</div>
+  <!-- end of item -->
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "lat dior.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Lat Dior le révolutionnaire </h1>
+      <h2>MEMOIRES
+</h2>
+      
+      <a href = "lat dior.html">Lire la Mémoire</a>
+    </div>
+</div>
+  <!-- end of item -->
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "george.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>George McLaurin était le premier noir autorisé à étudier aux États-Unis.  </h1>
+      <h2>MEMOIRES
+</h2>
+      
+      <a href = "george.html">Lire la Mémoire</a>
+    </div>
+</div>
+  <!-- end of item -->
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "revolte.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>18 octobre 1526 </h1>
+      <h2>MEMOIRES
+</h2>
+      
+      <a href = "revolte.html">Lire la Mémoire</a>
+    </div>
+</div>
+  <!-- end of item -->
+
+
+  <!-- item -->
+  <div class = "blog-item">
+    <div class = "blog-img">
+      <img src = "addi ba.jpg" alt = "">
+    </div>
+    <div class = "blog-text">
+      <span>20 January, 2020</span>
+      <h1>Addi Ba </h1>
+      <h2>Le Soldat Guinéen Addi Ba a été assassiné par les Allemands il y a exactement 78 ans aujourd'hui, en ce jour du 18 décembre 1943.
+</h2>
+      
+      <a href = "addi ba.html">Lire son Histoire</a>
+    </div>
+</div>
+  <!-- end of item -->
+
+      </div>
+    </section>
+    <!-- end of blog -->
+
+ <!-- about -->
+ <section class = "about" id = "about">
+    <div class = "container">
+      <div class = "about-content">
+        <div>
+          <img src = "auteur.jpg" alt = "">
+        </div>
+        <div class = "about-text">
+          <div class = "title">
+            <h2>Midid Os'Elie Yedagne</h2>
+            <p>Bloggeur passioné par l'histoire et de la litterature</p>
+          </div>
+          <p>Mon ambition est de faire de ce blog un vrai moteur de recherche pour les histoires qui nous concernent, nous Africain.s.es. De raconter les exploits de nos ancetres afin que leurs luttes et leurs courages ne se tarissent point, dans nos cultures et dans nos memoires. </p>
+
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam corrupti natus, eos quia recusandae voluptatem veniam modi officiis minima provident rem sint porro fuga quos tempora ea suscipit vero velit sed laudantium eaque necessitatibus maxime!</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end of about -->
+
+    <!-- footer -->
+    <footer>
+      <div class = "social-links">
+        <a href = "#"><i class = "fab fa-facebook-f"></i></a>
+        <a href = "#"><i class = "fab fa-twitter"></i></a>
+        <a href = "#"><i class = "fab fa-instagram"></i></a>
+        <a href = "#"><i class = "fab fa-pinterest"></i></a>
+      </div>
+      <span>La tête de Milles Noirs</span>
+    </footer>
+    <!-- end of footer -->
+
+
+  </body>
+</html> 
+
